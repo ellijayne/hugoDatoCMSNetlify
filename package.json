@@ -1,0 +1,14 @@
+{
+  "name": "blogdato",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dato.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "datocms-client": "^0.8.15"
+  }
+}
