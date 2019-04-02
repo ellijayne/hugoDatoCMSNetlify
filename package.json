@@ -10,5 +10,8 @@
   "license": "ISC",
   "devDependencies": {
     "datocms-client": "^0.8.15"
+  },
+  "dependencies": {
+    "postcss-cli": "^6.1.2"
   }
 }
