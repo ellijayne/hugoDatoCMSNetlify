@@ -1,6 +1,6 @@
 [build]
-  publish = "public"
-  command = "hugo"
+  publish = "public/"
+  command = "dato dump && hugo"
 
 [context.production.environment]
   HUGO_VERSION = "0.47.1"
