@@ -13,7 +13,6 @@
   },
   "dependencies": {
     "autoprefixer": "^9.5.0",
-    "markdownify": "^0.1.0",
     "postcss-cli": "^6.1.2"
   }
 }
