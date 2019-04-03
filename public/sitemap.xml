@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://affectionate-lichterman-36ce02.netlify.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/post/undefined/</loc>
+    <loc>https://affectionate-lichterman-36ce02.netlify.com/post/undefined/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://affectionate-lichterman-36ce02.netlify.com/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/post/</loc>
+    <loc>https://affectionate-lichterman-36ce02.netlify.com/post/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://affectionate-lichterman-36ce02.netlify.com/tags/</loc>
     <priority>0</priority>
   </url>
   
