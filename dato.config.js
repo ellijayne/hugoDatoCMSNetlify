@@ -21,7 +21,7 @@ module.exports = (dato, root, i18n) => {
 
             // ...and create a markdown file for each article!
             dir.createPost(
-                `${post.slug()}.md`, "yaml", {
+                `${post.slug()}.md`, "toml", {
                     frontmatter: {
                         title: post.title,
                     },
