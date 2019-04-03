@@ -1,3 +1,6 @@
 [submodule "themes/sam"]
 	path = themes/sam
 	url = https://github.com/victoriadotdev/hugo-theme-sam.git
+[submodule "themes/hugo-theme-sam"]
+	path = themes/hugo-theme-sam
+	url = git@github.com:ellijayne/hugo-theme-sam.git
