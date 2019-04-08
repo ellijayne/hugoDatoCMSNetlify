@@ -1,10 +1,5 @@
 ---
-title: "Terminal/Command Line Shortcuts and Handy Helpers"
-date: 2019-04-08T11:11:05+10:00
-showDate: false
-draft: false
-tags: ["blog","dev", "command line", "shortcuts"]
-categories: "dev notes"
+title: Terminal/Command Line Shortcuts and Handy Helpers
 ---
 
 The following are some terminal commands that I have come across and found helpful, handy, often used and/or short-cutty. This is mostly aimed at beginners who haven't memorised a lot of commands yet or people who forget them a lot (like me!). Enjoy! ✨
