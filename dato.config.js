@@ -9,10 +9,10 @@ module.exports = (dato, root, i18n, content) => {
             (content.posts && dato.posts).forEach((post) => {
                
 
-                    if ((`${post.title}.md`) > 1) {
-                        return;
+                    // if ((`${post.title}.md`) > 1) {
+                    //     return;
 
-                    } else {
+                    // } else {
                         postDir.createPost(
                             `${post.title}.md`, "yaml", {
                                 frontmatter: {
@@ -21,7 +21,7 @@ module.exports = (dato, root, i18n, content) => {
                                     content: post.content
                             }
                         );
-                    }
+                    //}
                 })
 
          
