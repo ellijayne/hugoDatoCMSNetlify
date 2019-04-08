@@ -10,10 +10,14 @@ categories: "dev notes"
 The following are some terminal commands that I have come across and found helpful, handy, often used and/or short-cutty. This is mostly aimed at beginners who haven't memorised a lot of commands yet or people who forget them a lot (like me!). Enjoy! ✨
 
 *To open bash profile* in atom:
-```atom ~/.bash_profile```
+```
+atom ~/.bash_profile
+```
 
 *Remove whole directory* (that is git directory or whatever) without being asked about y/n:
-```rm -rf <name-of-directory>```
+```
+rm -rf <name-of-directory>
+```
 
 You installed live server globally with 
 ```
