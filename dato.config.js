@@ -1,12 +1,12 @@
-module.exports = (dato, root, i18n) => {
+module.exports = (dato, root, i18n, content) => {
 
     // inside a "src/articles" directory...
     
     root.directory("content/post", (postDir) => {
 
         // ...iterate over the "Blog post" records...
-         dato.posts.forEach((post) => {
-           // content.posts.forEach((post) => {
+         //dato.posts.forEach((post) => {
+            content.posts.forEach((post) => {
 
            
 
