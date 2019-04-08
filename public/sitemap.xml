@@ -3,7 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://affectionate-lichterman-36ce02.netlify.com/post/terminal-shortcuts/</loc>
+    <lastmod>2019-04-08T11:11:05+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://affectionate-lichterman-36ce02.netlify.com/tags/blog/</loc>
+    <lastmod>2019-04-08T11:11:05+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://affectionate-lichterman-36ce02.netlify.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://affectionate-lichterman-36ce02.netlify.com/tags/command-line/</loc>
+    <lastmod>2019-04-08T11:11:05+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://affectionate-lichterman-36ce02.netlify.com/tags/dev/</loc>
+    <lastmod>2019-04-08T11:11:05+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://affectionate-lichterman-36ce02.netlify.com/categories/dev-notes/</loc>
+    <lastmod>2019-04-08T11:11:05+10:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -13,16 +42,25 @@
   
   <url>
     <loc>https://affectionate-lichterman-36ce02.netlify.com/</loc>
+    <lastmod>2019-04-08T11:11:05+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://affectionate-lichterman-36ce02.netlify.com/post/</loc>
+    <lastmod>2019-04-08T11:11:05+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://affectionate-lichterman-36ce02.netlify.com/tags/shortcuts/</loc>
+    <lastmod>2019-04-08T11:11:05+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://affectionate-lichterman-36ce02.netlify.com/tags/</loc>
+    <lastmod>2019-04-08T11:11:05+10:00</lastmod>
     <priority>0</priority>
   </url>
   

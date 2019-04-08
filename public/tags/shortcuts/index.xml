@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>https://affectionate-lichterman-36ce02.netlify.com/post/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Shortcuts on My New Hugo Site</title>
+    <link>https://affectionate-lichterman-36ce02.netlify.com/tags/shortcuts/</link>
+    <description>Recent content in Shortcuts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 08 Apr 2019 11:11:05 +1000</lastBuildDate>
     
-	<atom:link href="https://affectionate-lichterman-36ce02.netlify.com/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://affectionate-lichterman-36ce02.netlify.com/tags/shortcuts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,16 +20,6 @@
       <description>The following are some terminal commands that I have come across and found helpful, handy, often used and/or short-cutty. This is mostly aimed at beginners who haven&amp;rsquo;t memorised a lot of commands yet or people who forget them a lot (like me!). Enjoy! ✨
 To open bash profile in atom:
 *Remove whole directory* (that is git directory or whatever) without being asked about y/n: ```rm -rf &amp;lt;name-of-directory&amp;gt;``` You installed live server globally with  npm install live-server -g</description>
-    </item>
-    
-    <item>
-      <title>First Post through CMS</title>
-      <link>https://affectionate-lichterman-36ce02.netlify.com/post/undefined/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://affectionate-lichterman-36ce02.netlify.com/post/undefined/</guid>
-      <description>Hey there!
-Welcome to the first post on this blog created through the Dato CMS interface!!!! easy editing for clients that&amp;rsquo;s for sure!!!</description>
     </item>
     
   </channel>
