@@ -7,20 +7,28 @@ module.exports = (dato, root, i18n, content) => {
         // ...iterate over the "Blog post" records...
          //dato.posts.forEach((post) => {
             content.posts.forEach((post) => {
+                dato.posts.forEach((post) => {
 
-                if ((`${post.title}.md`).length ) {
-                     dato.posts.forEach((post) => {
-                          postDir.createPost(
-                              `${post.title}.md`, "yaml", {
-                                  frontmatter: {
-                                      title: post.title,
-                                  },
-                                  content: post.content
-                              }
-                          );
-                     })
+                    if ((`${post.title}.md`) > 1) {
+                        return;
+
+                    } else {
+                        postDir.createPost(
+                            `${post.title}.md`, "yaml", {
+                                frontmatter: {
+                                    title: post.title,
+                                },
+                                    content: post.content
+                            }
+                        );
+                    }
+                })
+
+            });
+
+                    
                      
-                }
+                
 
             // ...and create a markdown file for each article!
             postDir.createPost(
@@ -33,5 +41,4 @@ module.exports = (dato, root, i18n, content) => {
             );
             
         });
-    });
-};
+    }
