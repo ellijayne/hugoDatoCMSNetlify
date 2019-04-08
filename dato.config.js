@@ -6,27 +6,7 @@ module.exports = (dato, root, i18n, content) => {
 
         // ...iterate over the "Blog post" records...
          //dato.posts.forEach((post) => {
-            (content.posts && dato.posts).forEach((post) => {
-               
-
-                    // if ((`${post.title}.md`) > 1) {
-                    //     return;
-
-                    // } else {
-                        postDir.createPost(
-                            `${post.title}.md`, "yaml", {
-                                frontmatter: {
-                                    title: post.title,
-                                },
-                                    content: post.content
-                            }
-                        );
-                    //}
-                })
-
-         
-
-                    
+            (content.posts && dato.posts).forEach((post) => {   
                      
                 
 
@@ -41,4 +21,6 @@ module.exports = (dato, root, i18n, content) => {
             );
             
         });
-    }
+    })
+
+}
