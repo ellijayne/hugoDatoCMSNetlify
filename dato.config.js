@@ -6,8 +6,8 @@ module.exports = (dato, root, i18n, content) => {
 
         // ...iterate over the "Blog post" records...
          //dato.posts.forEach((post) => {
-            content.posts.forEach((post) => {
-                dato.posts.forEach((post) => {
+            (content.posts && dato.posts).forEach((post) => {
+               
 
                     if ((`${post.title}.md`) > 1) {
                         return;
@@ -24,7 +24,7 @@ module.exports = (dato, root, i18n, content) => {
                     }
                 })
 
-            });
+         
 
                     
                      
