@@ -13,10 +13,10 @@
     
     <item>
       <title>Terminal/Command Line Shortcuts and Handy Helpers</title>
-      <link>https://affectionate-lichterman-36ce02.netlify.com/post/terminal-shortcuts/</link>
+      <link>https://affectionate-lichterman-36ce02.netlify.com/post/terminal-commands/</link>
       <pubDate>Mon, 08 Apr 2019 11:11:05 +1000</pubDate>
       
-      <guid>https://affectionate-lichterman-36ce02.netlify.com/post/terminal-shortcuts/</guid>
+      <guid>https://affectionate-lichterman-36ce02.netlify.com/post/terminal-commands/</guid>
       <description>The following are some terminal commands that I have come across and found helpful, handy, often used and/or short-cutty. This is mostly aimed at beginners who haven&amp;rsquo;t memorised a lot of commands yet or people who forget them a lot (like me!). Enjoy! ✨
 To open bash profile in atom:
 *Remove whole directory* (that is git directory or whatever) without being asked about y/n: ```rm -rf &amp;lt;name-of-directory&amp;gt;``` You installed live server globally with  npm install live-server -g</description>
