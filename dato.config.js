@@ -6,7 +6,7 @@ module.exports = (dato, root, i18n, content) => {
 
         // ...iterate over the "Blog post" records...
          //dato.posts.forEach((post) => {
-            (~posts).forEach((post) => {   
+            (posts).forEach((post) => {   
                      
                 
 
