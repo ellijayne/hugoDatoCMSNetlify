@@ -1,6 +1,6 @@
-+++
-title = "First Post through CMS"
-+++
+---
+title: FIRST POST FROM CMS
+---
 
 ![](https://www.datocms-assets.com/10914/1554187909-profilepic.png)
 Hey there!

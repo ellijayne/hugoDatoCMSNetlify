@@ -39,4 +39,3 @@ atom ~/.ssh/config
 ```
 mkdir newProject && cd newProject
 ```
-
