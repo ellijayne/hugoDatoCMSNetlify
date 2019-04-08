@@ -8,7 +8,7 @@ module.exports = (dato, root, i18n, content) => {
          //dato.posts.forEach((post) => {
             content.posts.forEach((post) => {
 
-                if ((`${post.title}.md`).length = 0) {
+                if ((`${post.title}.md`).length ) {
                      dato.posts.forEach((post) => {
                           postDir.createPost(
                               `${post.title}.md`, "yaml", {
@@ -19,7 +19,7 @@ module.exports = (dato, root, i18n, content) => {
                               }
                           );
                      })
-                     return;
+                     
                 }
 
             // ...and create a markdown file for each article!
