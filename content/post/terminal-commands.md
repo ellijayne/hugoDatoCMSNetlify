@@ -1,7 +1,7 @@
 ---
 title: "Terminal/Command Line Shortcuts and Handy Helpers"
 date: 2019-04-08T11:11:05+10:00
-showDate: true
+showDate: false
 draft: false
 tags: ["blog","dev", "command line", "shortcuts"]
 categories: "dev notes"
