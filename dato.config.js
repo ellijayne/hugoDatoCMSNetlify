@@ -1,10 +1,14 @@
 module.exports = (dato, root, i18n) => {
 
     // inside a "src/articles" directory...
+    
     root.directory("content/post", (postDir) => {
 
         // ...iterate over the "Blog post" records...
-        dato.posts.forEach((post) => {
+        // dato.posts.forEach((post) => {
+            content.posts.forEach((post) => {
+
+           
 
             // ...and create a markdown file for each article!
             postDir.createPost(
@@ -15,6 +19,7 @@ module.exports = (dato, root, i18n) => {
                     content: post.content
                 }
             );
+            
         });
     });
 };
