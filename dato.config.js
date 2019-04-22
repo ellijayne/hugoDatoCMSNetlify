@@ -11,6 +11,7 @@ module.exports = (dato, root, i18n) => {
                 `${post.title}.md`, "yaml", {
                     frontmatter: {
                         title: post.title,
+                        date: post.date
                     },
                     content: post.content
                 }
