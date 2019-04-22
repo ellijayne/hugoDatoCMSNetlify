@@ -1,7 +1,7 @@
 ---
 title: FIRST POST FROM CMS
 date: 2019-04-02T00:00:00.000Z
-tags: 'dev post, blog post'
+tags: ["dev post", "blog post"]
 ---
 
 ![](https://www.datocms-assets.com/10914/1554187909-profilepic.png)
