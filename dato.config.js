@@ -4,7 +4,7 @@ module.exports = (dato, root, i18n) => {
     root.directory("content/post", (postDir) => {
 
         // ...iterate over the "Blog post" records...
-        dato.posts.date.forEach((post) => {
+        dato.posts.forEach((post) => {
 
             // ...and create a markdown file for each article!
             postDir.createPost(
