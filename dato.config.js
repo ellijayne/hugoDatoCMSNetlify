@@ -13,6 +13,9 @@ module.exports = (dato, root, i18n) => {
                         title: post.title,
                         date: post.date
                     },
+                    date: post.date,
+                    contentType: post.contentType,
+                    categories: post.categories,
                     content: post.content
                 }
             );

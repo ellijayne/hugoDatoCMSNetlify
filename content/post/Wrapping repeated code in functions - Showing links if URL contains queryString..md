@@ -1,5 +1,6 @@
 ---
 title: Wrapping repeated code in functions - Showing links if URL contains queryString.
+date: 2019-04-09T00:00:00.000Z
 ---
 
 *Problem:* Only wanting to show 'Clear All' button if URL queryString was present.
