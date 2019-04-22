@@ -12,8 +12,7 @@ module.exports = (dato, root, i18n) => {
                     frontmatter: {
                         title: post.title,
                         date: post.date,
-                        contentType: post.contentType,
-                        categories: post.categories
+                        tags: post.tags
                     },
         
                     content: post.content

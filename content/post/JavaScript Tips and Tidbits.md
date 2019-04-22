@@ -1,8 +1,7 @@
 ---
 title: JavaScript Tips and Tidbits
 date: 2019-04-22T00:00:00.000Z
-contentType: null
-categories: null
+tags: ['dev post, javascript']
 ---
 
 Here are some little javaScript tips and tidbits I have learned/feel the need to write down for future reference:
