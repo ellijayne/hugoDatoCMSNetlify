@@ -2,7 +2,7 @@
 title: Terminal Command Line Shortcuts and Handy Helpers
 date: 2019-04-08T00:00:00.000Z
 contentType: null
-categories: dev notes
+categories: null
 ---
 
 The following are some terminal commands that I have come across and found helpful, handy, often used and/or short-cutty. This is mostly aimed at beginners who haven't memorised a lot of commands yet or people who forget them a lot (like me!). Enjoy! ✨

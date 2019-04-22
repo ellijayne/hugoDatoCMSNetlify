@@ -2,7 +2,7 @@
 title: Wrapping repeated code in functions - Showing links if URL contains queryString.
 date: 2019-04-09T00:00:00.000Z
 contentType: null
-categories: dev post
+categories: null
 ---
 
 *Problem:* Only wanting to show 'Clear All' button if URL queryString was present.
